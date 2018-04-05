@@ -1,0 +1,71 @@
+$black: #000;
+
+$blue: #3894fd;
+$blue-dark: #3991fb;
+
+$gray: #404040;
+$gray-medium-dark: #757575;
+$gray-medium: #a5a5a5;
+$gray-light: #d9d9d9;
+$gray-lighter: #f4f4f4;
+$gray-lightest: #f7f7f7;
+
+$green: #17d69b;
+$green-light: #0d9;
+$green-dark: #15c48e;
+
+$error-red: #ff5151;
+$red: $error-red;
+
+$magenta: #ff517c;
+$purple: #974fef;
+$white: #fff;
+$yellow: #fdc030;
+$yellow-light: #ff0;
+
+$colors: (
+  'black': $black,
+  'blue': $blue,
+  'blue-dark': $blue-dark,
+  'error-red': $error-red,
+  'gray': $gray,
+  'gray-medium-dark': $gray-medium-dark,
+  'gray-medium': $gray-medium,
+  'gray-light': $gray-light,
+  'gray-lighter': $gray-lighter,
+  'gray-lightest': $gray-lightest,
+  'green': $green,
+  'green-light': $green-light,
+  'green-dark': $green-dark,
+  'magenta': $magenta,
+  'purple': $purple,
+  'red': $red,
+  'white': $white,
+  'yellow': $yellow
+);
+
+// Override default variables in
+// the Plyr video library.
+$plyr-color-main: $green;
+
+$primary-font: 'Akkurat';
+$secondary-font: 'Akkurat-Mono';
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-semibold: 600;
+
+$default-body-font-size: 13px;
+$default-header-font-size: 14px;
+
+// LAYOUT DIMENSIONS
+$break-main: 500px;
+$body-sidebar-width: 320px;
+$body-main-min-width: 800px;
+
+$master-detail-sidebar-width: $body-sidebar-width;
+$vertical-split-main-min-width: $body-main-min-width;
+$vertical-split-right-min-width: $body-sidebar-width;
+
+// QUERIES
+$small-device-height-query: 750px;
+$min-device-width-query: 1200px;

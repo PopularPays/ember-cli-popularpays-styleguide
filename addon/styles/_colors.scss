@@ -1,0 +1,70 @@
+$black: #000;
+$blue-dark: #3991fb;
+$blue: #3894fd;
+$error-red: #ff5151;
+$gray-light: #d9d9d9;
+$gray-lighter: #f4f4f4;
+$gray-lightest: #f7f7f7;
+$gray-medium-dark: #757575;
+$gray-medium: #a5a5a5;
+$gray: #404040;
+$green-dark: #15c48e;
+$green-light: #0d9;
+$green: #17d69b;
+$magenta: #ff517c;
+$medium-dark-gray: #757575;
+$medium-gray: #a5a5a5;
+$purple-dark: #7c1af5;
+$purple: #974fef;
+$red: $error-red;
+$white: #fff;
+$yellow-light: #ff0;
+$yellow: #fdc030;
+
+
+// WARNING: DEPRECATED
+$light-gray: $gray-light;
+$lighter-gray: $gray-lighter;
+$lightest-gray: $gray-lightest;
+$primary-gray: $gray;
+$primary-green-light: $green-light;
+$primary-green-lighter: #00ffb2;
+$primary-green: $green;
+$purple-cwa: #7c1af5;
+$yellow-tan: $yellow;
+$yellow-cwa: rgba(255,255,143,0.27);
+
+// MAPS
+
+$progress-bar-map: (
+  25: $purple,
+  50: #7474d8,
+  75: #5298c2,
+  99: #3ab1b2,
+  100: $primary-green
+);
+
+$colors: (
+  'black': $black,
+  'blue-dark': $blue-dark,
+  'blue': $blue,
+  'error-red': $error-red,
+  'gray-light': $gray-light,
+  'gray-lighter': $gray-lighter,
+  'gray-lightest': $gray-lightest,
+  'gray-medium-dark': $gray-medium-dark,
+  'gray-medium': $gray-medium,
+  'gray': $gray,
+  'green-dark': $green-dark,
+  'green-light': $green-light,
+  'green': $green,
+  'magenta': $magenta,
+  'medium-dark-gray': $medium-dark-gray,
+  'medium-gray': $medium-gray,
+  'purple': $purple,
+  'purple-dark': $purple-dark,
+  'red': $red,
+  'white': $white,
+  'yellow-light': $yellow-light,
+  'yellow': $yellow
+);
