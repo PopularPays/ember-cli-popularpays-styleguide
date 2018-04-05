@@ -1,0 +1,50 @@
+$primary-green: #17d69b;
+$primary-green-lighter: #00ffb2;
+$primary-green-light: #00dd99;
+$purple: #7c1af5;
+$error-red: #ff5151;
+$yellow-tan: #fdc030;
+$yellow: rgba(255,255,143,0.27);
+
+$primary-gray: #404040;
+$medium-dark-gray: #757575;
+$medium-gray: #a5a5a5;
+$light-gray: #d9d9d9;
+$lighter-gray: #f0f0f0;
+$lightest-gray: #f4f4f4;
+$white: #fff;
+$black: #000;
+$blue: #3894fd;
+$magenta: #ff517c;
+
+$progress-bar-map: (
+  25: #974fef,
+  50: #7474d8,
+  75: #5298c2,
+  99: #3ab1b2,
+  100: $primary-green
+);
+
+$primary-font: "Akkurat";
+$secondary-font: "Akkurat-Mono";
+
+$font-weight-light: 300;
+$font-weight-normal: 400;
+$font-weight-semibold: 600;
+
+$break-main: 500px;
+$break-xlarge: 1400px;
+
+$width-main: 1140px;
+$width-min: 1050px;
+
+// default z-index is 0. This applies to most elements
+$z-index-loading: 1;       // inter-route loading element. Must appear above most elements, but below chrome
+$z-index-chrome: 2;        // user sidebar, the "chrome" of the app
+$z-index-modal-divider: 3; // semi-transparent box. Appers above regular app
+$z-index-modal: 4;         // items rendered during a mode, above the modal divider
+$z-index-alert: 5;         // alerts / flash messages always need to be top
+
+// Override default variables in
+// the Plyr video library.
+$plyr-color-main: $primary-green;
