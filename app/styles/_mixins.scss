@@ -1,0 +1,52 @@
+@mixin get-icon-svg($icon-name) {
+  background: {
+    image: url('/ember-cli-popularpays-styleguide/svg/icon-#{$icon-name}.svg');
+    repeat: no-repeat;
+  }
+}
+
+@mixin get-gray-logo-svg($logo-name) {
+  background: {
+    image: url('/ember-cli-popularpays-styleguide/svg/logo-#{$logo-name}-gray.svg');
+    repeat: no-repeat;
+    position: center center;
+    size: contain;
+  }
+}
+
+// Mixin to prefix several properties at once
+// @author Hugo Giraudel
+// @param {Map} $declarations - Declarations to prefix
+// @param {List} $prefixes (()) - List of prefixes to print
+// EXAMPLE:
+// .selector {
+//   @include prefix(
+//    (
+//      column-count: 3,
+//      column-gap: 1.5em,
+//      column-rule: 2px solid hotpink
+//   ), webkit moz);
+// }
+// NOTE:
+// By default the browser will add webkit & moz
+@mixin prefix($declarations, $prefixes: ( webkit moz)) {
+  @each $property, $value in $declarations {
+    @each $prefix in $prefixes {
+      #{'-' + $prefix + '-' + $property}: $value;
+    }
+
+    // Output standard non-prefixed declaration
+    #{$property}: $value;
+  }
+}
+
+@mixin prefix-value-only($declarations, $prefixes: ()) {
+  @each $property, $value in $declarations {
+    @each $prefix in $prefixes {
+      #{$property}: #{'-' + $prefix + '-' + $value};
+    }
+
+    // Output standard non-prefixed declaration
+    #{$property}: $value;
+  }
+}

@@ -1,0 +1,30 @@
+@each $icon-name in $icon-list {
+  .icon--#{$icon-name} {
+    @include get-icon-svg($icon-name);
+  }
+}
+
+@each $network in $network-list {
+  .icon--#{$network} {
+    @include get-gray-logo-svg(#{$network});
+  }
+}
+
+.icon {
+  display: inline-block;
+  background-size: contain;
+  height: 23px;
+  margin: 0 3px;
+  width: 23px;
+  vertical-align: text-top;
+
+  &--large {
+    height: 40px;
+    width: 40px;
+  }
+
+  &--small {
+    height: 14px;
+    width: 14px;
+  }
+}

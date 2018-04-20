@@ -1,0 +1,71 @@
+%default-body-font {
+  font: {
+    family: $primary-font;
+    size: $default-body-font-size;
+  }
+  line-height: ( 17 / 13 );
+}
+
+%default-body-font-bold {
+  @extend %default-body-font;
+  font-weight: $font-weight-semibold;
+}
+
+%default-header-font {
+  font: {
+    family: $primary-font;
+    size: $default-header-font-size;
+    weight: $font-weight-semibold;
+  }
+  line-height: ( 17 / 14 );
+}
+
+%default-label {
+  @extend %default-header-font;
+  color: $gray;
+}
+
+%default-input-text {
+  @extend %default-header-font;
+  color: $gray-medium-dark;
+}
+
+%default-select-text {
+  @extend %default-header-font;
+  font-weight: $font-weight-normal;
+  color: $gray;
+}
+
+%default-table-header {
+  font: {
+    family: $primary-font;
+    size: $default-body-font-size;
+    weight: $font-weight-semibold;
+  }
+  line-height: ( 20 / 13 );
+}
+
+%default-button-text {
+  @extend %default-body-font-bold;
+  color: $gray;
+  font-size: 12px;
+}
+
+%default-legal-text {
+  @extend %default-body-font;
+  color: $gray-medium;
+  font-size: 12px;
+  line-height: ( 14 / 12 );
+  text-align: center;
+  width: 100%;
+  margin: 10px 0;
+}
+
+%default-error {
+  color: $error-red;
+  font-size: 12px;
+  line-height: 18px;
+  font-weight: $font-weight-normal;
+  font-style: italic;
+  margin-top: 4px;
+}

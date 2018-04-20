@@ -1,0 +1,23 @@
+{{#docs-header githubUrl='https://github.com/PopularPays/ember-cli-popularpays-styleguide'}}
+  <img height='30px'
+    src="/ember-cli-popularpays-styleguide/svg/logos/full/color.svg"
+    alt="Popular Pays"
+  />
+{{/docs-header}}
+
+{{#docs-viewer as |viewer|}}
+
+  {{#viewer.nav as |nav|}}
+    {{nav.section 'Components'}}
+    {{nav.item 'Buttons' 'docs.buttons'}}
+  {{/viewer.nav}}
+
+  {{#viewer.main}}
+    <div class="docs-container">
+      <div class="docs-section">
+        {{outlet}}
+      </div>
+    </div>
+  {{/viewer.main}}
+
+{{/docs-viewer}}

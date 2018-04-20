@@ -1,0 +1,72 @@
+$button-font-size: 12px;
+$button-icon-size: 24px;
+$button-large-font-size: 16px;
+$button-border-radius: 2px;
+$button-padding-vertical: 7px;
+$button-padding-horizontal: 20px;
+$button-large-padding-vertical: 12px;
+$button-large-padding-horizontal: 20px;
+
+button,
+.button {
+  color: $gray;
+  font: {
+    family: $primary-font;
+    size: $button-font-size;
+  }
+
+  line-height: $button-font-size * 2;
+  padding: $button-padding-vertical $button-padding-horizontal;
+
+  &:hover,
+  &.hover {
+    background-color: $gray-light;
+    border-radius: $button-border-radius;
+  }
+
+  &--error {
+    color: $error-red;
+
+    &:hover,
+    &.hover {
+      background-color: rgba($error-red, 0.1);
+    }
+  }
+
+
+  &__icon {
+    padding-left: ( 15 + $button-icon-size + 4px);
+    background: {
+      size: $button-icon-size;
+      position: 15px $button-padding-vertical;
+    }
+
+    @each $icon-name in $icon-list {
+      &--#{$icon-name} {
+        @include get-icon-svg($icon-name);
+      }
+    }
+  }
+
+  &__outline {
+    border: 1px solid $gray;
+    border-radius: $button-border-radius;
+
+    &.button--error {
+      border-color: $error-red;
+    }
+  }
+
+  &__large {
+    font-size: $button-large-font-size;
+    line-height: $button-large-font-size * 2;
+    padding: $button-padding-vertical $button-large-padding-horizontal;
+    // with icon
+    &.button__icon {
+      padding-left: ( 15 + $button-icon-size + 4px);
+      background: {
+        position: 15px $button-large-padding-vertical;
+      }
+    }
+  }
+}

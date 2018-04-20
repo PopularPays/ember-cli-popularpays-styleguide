@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="19px" height="20px" viewBox="0 0 19 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 756 + Fill 757</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Campaign-In-Progress-Pending-Old-Version" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-689.000000, -629.000000)">
+        <g id="Fill-756-+-Fill-757" transform="translate(689.000000, 629.000000)" fill="#3894FD">
+            <polygon id="Fill-756" points="8 6 8 12 12 12 12 10 10 10 10 6"></polygon>
+            <path d="M9,0 C6.285,0 3.78,1.089 1.938,2.938 L0,1 L0,7 L6,7 L3.351,4.351 C4.824,2.871 6.828,2 9,2 C13.411,2 17,5.589 17,10 C17,14.411 13.411,18 9,18 L9,20 C14.514,20 19,15.514 19,10 C19,4.486 14.514,0 9,0" id="Fill-757"></path>
+        </g>
+    </g>
+</svg>
