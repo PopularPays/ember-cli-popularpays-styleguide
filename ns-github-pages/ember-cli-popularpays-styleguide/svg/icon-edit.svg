@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Actions/Edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MVP-Campaign-Brief-Builder-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-705.000000, -496.000000)" opacity="0.65">
+        <g id="Group-8" transform="translate(182.000000, 431.000000)" fill="#404040" fill-rule="nonzero">
+            <g id="Actions/Edit" transform="translate(521.000000, 63.000000)">
+                <g id="Edit" transform="translate(2.000000, 2.000000)">
+                    <path d="M18.821,1.179 C18.061,0.418 17.049,0 15.974,0 C14.9,0 13.888,0.418 13.128,1.179 L1.719,12.587 C1.719,12.587 1.718,12.59 1.716,12.591 C1.635,12.673 1.497,12.889 1.455,13.052 L0.03,18.756 C-0.056,19.096 0.045,19.458 0.293,19.705 L0.294,19.706 L0.295,19.707 C0.543,19.955 0.903,20.056 1.244,19.971 L6.948,18.544 C7.111,18.502 7.328,18.364 7.409,18.283 C7.41,18.282 7.413,18.28 7.413,18.28 L18.822,6.873 C19.582,6.112 20.001,5.102 20,4.026 C20,2.951 19.582,1.94 18.822,1.179 L18.821,1.179 Z M12.411,4.728 L15.274,7.591 L6.706,16.159 L3.843,13.296 L12.411,4.728 Z M2.375,17.626 L2.97,15.252 L4.75,17.033 L2.375,17.626 Z M17.409,2.594 C18.173,3.359 18.173,4.693 17.409,5.458 L16.69,6.178 L13.824,3.313 L14.545,2.594 C15.31,1.83 16.644,1.829 17.409,2.594 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
