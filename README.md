@@ -1,5 +1,6 @@
 ember-cli-popularpays-styleguide
 ==============================================================================
+Check out our demo at [https://PopularPays.github.io/ember-cli-popularpays-styleguide](https://PopularPays.github.io/ember-cli-popularpays-styleguide)
 
 [Short description of the addon.]
 
