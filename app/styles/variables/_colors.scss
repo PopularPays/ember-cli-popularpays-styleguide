@@ -68,3 +68,23 @@ $colors: (
   'yellow-light': $yellow-light,
   'yellow': $yellow
 );
+
+// Generates utility classes that can modify an element
+@each $color-key, $color-value in $colors {
+  .color--#{$color-key} {
+    color: $color-value;
+  }
+
+  .color--#{$color-key}-difference {
+    color: $color-value;
+    mix-blend-mode: difference;
+  }
+
+  .bg--#{$color-key} {
+    background-color: $color-value;
+  }
+
+  .border--#{$color-key} {
+    border-color: $color-value;
+  }
+}
