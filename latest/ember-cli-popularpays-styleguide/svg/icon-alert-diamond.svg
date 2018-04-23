@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>interface-alert-diamond</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MVP-Campaign-Brief-Builder-4" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-216.000000, -934.000000)">
+        <g id="Group-8" transform="translate(182.000000, 431.000000)">
+            <g id="Brief-Alert" transform="translate(21.000000, 493.000000)">
+                <g id="interface-alert-diamond" transform="translate(11.000000, 8.000000)">
+                    <g id="Frame_-_24px">
+                        <rect id="Rectangle-path" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                    <g id="Line_Icons" transform="translate(2.000000, 2.000000)" fill="#FDC030" fill-rule="nonzero">
+                        <g id="Group">
+                            <path d="M10,20 C9.744,20 9.488,19.902 9.293,19.707 L0.293,10.707 C-0.098,10.316 -0.098,9.684 0.293,9.293 L9.293,0.293 C9.684,-0.098 10.316,-0.098 10.707,0.293 L19.707,9.293 C20.098,9.683 20.098,10.316 19.707,10.707 L10.707,19.707 C10.512,19.903 10.256,20 10,20 Z M2.414,10 L10,17.586 L17.586,10 L10,2.415 L2.414,10 Z" id="Shape"></path>
+                            <rect id="Rectangle-path" x="9" y="6" width="2" height="6"></rect>
+                            <circle id="Oval" cx="10" cy="14" r="1.25"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

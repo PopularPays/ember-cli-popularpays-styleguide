@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Indicator/Complete</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Elements/In-Progress/Andrew" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-287.000000, -536.000000)">
+        <g id="Indicator/Complete" transform="translate(287.000000, 536.000000)" fill="#17D69B">
+            <g id="Complete">
+                <path d="M6.475,11.025 L2.975,8.4 L4.025,7 L6.125,8.575 L9.8,3.675 L11.2,4.725 L6.475,11.025 Z M7,0 C3.1339,0 0,3.1346 0,7 C0,10.8654 3.1339,14 7,14 C10.8661,14 14,10.8654 14,7 C14,3.1346 10.8661,0 7,0 L7,0 Z" id="Fill-49"></path>
+            </g>
+        </g>
+    </g>
+</svg>

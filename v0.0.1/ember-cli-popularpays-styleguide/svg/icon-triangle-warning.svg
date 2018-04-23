@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill 2108 + Fill 2109 + Fill 2110</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Campaigns" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Campaign-Dependencies-Gift-Codes" transform="translate(-1201.000000, -313.000000)" fill="#FDC030">
+            <g id="Fill-2108-+-Fill-2109-+-Fill-2110" transform="translate(1201.000000, 313.000000)">
+                <path d="M1.96365,13.5 L13.03665,13.5 L7.50015,2.427 L1.96365,13.5 Z M14.25015,15 L0.75015,15 C0.4899,15 0.2484,14.865 0.1119,14.6445 C-0.0246,14.42325 -0.0366,14.14725 0.0789,13.91475 L6.8289,0.41475 C7.08315,-0.09375 7.9164,-0.09375 8.17065,0.41475 L14.92065,13.91475 C15.0369,14.14725 15.0249,14.42325 14.88765,14.6445 C14.75115,14.865 14.5104,15 14.25015,15 L14.25015,15 Z" id="Fill-2108"></path>
+                <polygon id="Fill-2109" points="8.25 10.5 6.75 10.5 6.75 6 8.25 6"></polygon>
+                <path d="M8.4375,12 C8.4375,12.5175 8.0175,12.9375 7.5,12.9375 C6.9825,12.9375 6.5625,12.5175 6.5625,12 C6.5625,11.4825 6.9825,11.0625 7.5,11.0625 C8.0175,11.0625 8.4375,11.4825 8.4375,12" id="Fill-2110"></path>
+            </g>
+        </g>
+    </g>
+</svg>

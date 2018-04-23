@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="38px" height="40px" viewBox="0 0 38 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Status/Combo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="MVP-Campaign-Brief-Builder-5" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-536.000000, -219.000000)">
+        <g id="Group" transform="translate(297.000000, 216.000000)">
+            <g id="Status/Combo" transform="translate(233.000000, 0.000000)">
+                <g id="Combo">
+                    <g id="Labels/Application" fill="#404040">
+                        <g id="Application" transform="translate(6.333333, 3.166667)">
+                            <path d="M22.16825,28.5 L3.16666667,28.5 L3.16666667,3.16666667 L15.8333333,3.16666667 L15.8333333,9.5 L22.1666667,9.5 L22.16825,28.5 Z M18.0721667,0 L3.16666667,0 C1.42025,0 0,1.42183333 0,3.16666667 L0,28.5 C0,30.2464167 1.42025,31.6666667 3.16666667,31.6666667 L22.1666667,31.6666667 C23.9130833,31.6666667 25.3333333,30.2464167 25.3333333,28.5 L25.3333333,7.26116667 L18.0721667,0 Z" id="Fill-22"></path>
+                            <polygon id="Fill-24" points="15.8333333 14.25 6.33333333 14.25 6.33333333 17.4166667 15.8333333 17.4166667"></polygon>
+                            <polygon id="Fill-26" points="6.33333333 23.75 19 23.75 19 20.5833333 6.33333333 20.5833333"></polygon>
+                        </g>
+                    </g>
+                    <g id="Status/Overlay/Clock" transform="translate(22.000000, 21.000000)">
+                        <g id="clock">
+                            <circle id="Oval" fill="#FFFFFF" cx="11" cy="11" r="11"></circle>
+                            <path d="M11,4 C7.14,4 4,7.14 4,11 C4,14.86 7.14,18 11,18 C14.86,18 18,14.86 18,11 C18,7.14 14.86,4 11,4 M11,20 C6.038,20 2,15.963 2,11 C2,6.037 6.038,2 11,2 C15.962,2 20,6.037 20,11 C20,15.963 15.962,20 11,20" id="Fill-1711" fill="#FDC030"></path>
+                            <path d="M13.293,14.707 L10.293,11.707 C10.105,11.519 10,11.265 10,11 L10,6 L12,6 L12,10.586 L14.707,13.293 L13.293,14.707 Z" id="Fill-1714" fill="#FDC030"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

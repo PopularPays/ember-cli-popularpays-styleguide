@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="20px" viewBox="0 0 22 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47 (45396) - http://www.bohemiancoding.com/sketch -->
+    <title>Content Video White</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-12.5%" y="-14.1%" width="125.0%" height="128.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.75" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.23 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Icons" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Content/Video-White" transform="translate(-1.000000, -2.000000)" fill="#FFFFFF">
+            <g id="Content-Video-White" transform="translate(3.000000, 4.000000)">
+                <g id="shape" filter="url(#filter-1)">
+                    <path d="M1.63636364,14.4 L1.63636364,1.6 L16.3636364,1.6 L16.3652727,14.4 L1.63636364,14.4 Z M16.3636364,0 C17.2660909,0 18,0.7168 18,1.6 L18,14.4 C18,15.2824 17.2660909,16 16.3636364,16 L1.63636364,16 C0.733909091,16 0,15.2824 0,14.4 L0,1.6 C0,0.7168 0.733909091,0 1.63636364,0 L16.3636364,0 Z M7.36363636,10.4 L12.2727273,8 L7.36363636,5.6 L7.36363636,10.4 Z M3.27272727,4 L4.90909091,4 L4.90909091,2.4 L3.27272727,2.4 L3.27272727,4 Z M8.18181818,2.4 L6.54545455,2.4 L6.54545455,4 L8.18181818,4 L8.18181818,2.4 Z M11.4545455,2.4 L9.81818182,2.4 L9.81818182,4 L11.4545455,4 L11.4545455,2.4 Z M13.0909091,4 L14.7272727,4 L14.7272727,2.4 L13.0909091,2.4 L13.0909091,4 Z M3.27272727,13.6 L4.90909091,13.6 L4.90909091,12 L3.27272727,12 L3.27272727,13.6 Z M6.54545455,13.6 L8.18181818,13.6 L8.18181818,12 L6.54545455,12 L6.54545455,13.6 Z M9.81818182,13.6 L11.4545455,13.6 L11.4545455,12 L9.81818182,12 L9.81818182,13.6 Z M13.0909091,13.6 L14.7272727,13.6 L14.7272727,12 L13.0909091,12 L13.0909091,13.6 Z" id="Combined-Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
