@@ -16,5 +16,11 @@
     "tag": "v0.0.1",
     "path": "latest",
     "name": "latest"
+  },
+  "ns-fonts": {
+    "sha": "ac759adc647850483f8de4ee79075ffa8141df5b",
+    "tag": null,
+    "path": "ns-fonts",
+    "name": "ns-fonts"
   }
 }

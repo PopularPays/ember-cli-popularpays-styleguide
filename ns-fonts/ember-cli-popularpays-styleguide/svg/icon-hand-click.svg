@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="8px" height="12px" viewBox="0 0 8 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Engagements Sm</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Indicator/Engagements-Sm" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-2.000000, 0.000000)">
+        <g id="Engagements-Sm" transform="translate(2.000000, 0.000000)" fill="#404040" fill-rule="nonzero">
+            <g id="Line_Icons">
+                <g id="Group">
+                    <path d="M7.42857143,12 L3.42857143,12 C3.212,12 3.01428571,11.8716 2.91714286,11.6682 L1.20285714,8.0682 C1.11485714,7.8822 1.12342857,7.6608 1.228,7.4844 C1.33257143,7.308 1.516,7.2 1.71428571,7.2 L2.85714286,7.2 L2.85714286,3.6 C2.85714286,3.4074 2.94514286,3.2262 3.09485714,3.1128 C3.24342857,3 3.43428571,2.9694 3.60914286,3.0306 L5.32342857,3.6306 C5.55714286,3.7128 5.71428571,3.942 5.71428571,4.2 L5.71428571,6.7314 L7.56685714,7.218 C7.82171429,7.2852 8,7.5252 8,7.8 L8,11.4 C8,11.7318 7.74457143,12 7.42857143,12 Z M3.78171429,10.8 L6.85714286,10.8 L6.85714286,8.2686 L5.00457143,7.7826 C4.75028571,7.7154 4.57142857,7.4754 4.57142857,7.2 L4.57142857,4.6326 L4,4.4328 L4,7.8 C4,8.1312 3.74457143,8.4 3.42857143,8.4 L2.63885714,8.4 L3.78171429,10.8 Z" id="Shape"></path>
+                    <g id="Rectangle-path">
+                        <rect x="0" y="3.6" width="1.71428571" height="1.2"></rect>
+                        <rect transform="translate(1.777710, 1.866950) rotate(45.000000) translate(-1.777710, -1.866950) " x="0.920575591" y="1.26695573" width="1.71426927" height="1.19998849"></rect>
+                        <rect x="3.42857143" y="0" width="1.14285714" height="1.8"></rect>
+                        <rect transform="translate(6.221996, 1.867090) rotate(135.000000) translate(-6.221996, -1.867090) " x="5.36486131" y="1.26709577" width="1.71426927" height="1.19998849"></rect>
+                        <rect x="6.28571429" y="3.6" width="1.71428571" height="1.2"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

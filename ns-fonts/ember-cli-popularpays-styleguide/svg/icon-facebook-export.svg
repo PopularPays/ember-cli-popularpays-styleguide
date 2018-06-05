@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="21px" height="20px" viewBox="0 0 21 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.1 (47250) - http://www.bohemiancoding.com/sketch -->
+    <title>Send to Facebook Icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Actions/Send-To-Facebook" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-2.000000, -2.000000)">
+        <g id="Send-to-Facebook-Icon" transform="translate(2.000000, 2.000000)" fill="#404040">
+            <g id="Group-2">
+                <g id="Facebook" transform="translate(0.000000, 8.000000)">
+                    <path d="M12,11.3377462 C12,11.7035221 11.7035221,12.0003269 11.3377462,12.0003269 L8.27980714,12.0003269 L8.27980714,7.35310942 L9.83966658,7.35310942 L10.073384,5.54188118 L8.27980714,5.54188118 L8.27980714,4.38571545 C8.27980714,3.86140394 8.42559451,3.50412683 9.17741276,3.50412683 L10.1364714,3.50379995 L10.1364714,1.88379505 C9.97041759,1.86189426 9.40132385,1.81253575 8.73907003,1.81253575 C7.3563782,1.81253575 6.40974095,2.65653346 6.40974095,4.20658658 L6.40974095,5.54188118 L4.84595898,5.54188118 L4.84595898,7.35310942 L6.40974095,7.35310942 L6.40974095,12.0003269 L0.66225382,12.0003269 C0.296477895,12.0003269 0,11.7035221 0,11.3377462 L0,0.662580698 C0,0.296477895 0.296477895,0 0.66225382,0 L11.3377462,0 C11.7035221,0 12,0.296477895 12,0.662580698 L12,11.3377462"></path>
+                </g>
+                <g id="Group" transform="translate(11.000000, 0.000000)" fill-rule="nonzero">
+                    <polygon id="Shape" points="9.708 5.292 5.001 0.585 0.294 5.292 1.708 6.707 4.001 4.414 4.001 11 6.001 11 6.001 4.414 8.294 6.707"></polygon>
+                    <rect id="Rectangle-path" x="4.001" y="12" width="2" height="2"></rect>
+                    <rect id="Rectangle-path" x="4.001" y="15" width="2" height="2"></rect>
+                    <rect id="Rectangle-path" x="4.001" y="18" width="2" height="2"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
